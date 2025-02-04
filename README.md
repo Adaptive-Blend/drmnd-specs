@@ -100,6 +100,20 @@ Every routine begins with **Priorities**:
 - **Concern/Result Priority**
 - **Action/Function Priority** : Takes precidence if Concern/Result  Priority Match
 
+|`H`|`C`|`C`|`T`|`T`|`H`|`C`|`T`|`H`|
+|---|---|---|---|---|---|---|---|---|
+| P | S | P | T | P | S | T | S | T |
+
+**Priority Decoding (OOP)**
+- `Hydrate Primary`
+- `Clean Secondary`
+- `Clean Primary`
+- `Treat Tertiary`
+- `Treat Primary`
+- `Hydrate Secondary`
+- `Clean Tertiary`
+- `Treat Secondary`
+- `Hydrate Tertiary`
 
 
 ---
@@ -122,6 +136,7 @@ Every routine begins with **Priorities**:
 |`H`|`C`|`C`|`T`|`T`|`H`|`C`|`T`|`H`|
 |---|---|---|---|---|---|---|---|---|
 | P | S | P | T | P | S | T | S | T |
+
 
 **Output**:
 - **Results**: Deep Hydration, Brightening, Even SkinTone
